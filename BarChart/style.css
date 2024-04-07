@@ -1,0 +1,10 @@
+.bar:hover {
+   fill: lightblue;
+}
+#tooltip {
+    position: absolute;
+    background-color: white;
+    padding: 10px;
+    border: 1px solid blue;
+    display: none;
+}
